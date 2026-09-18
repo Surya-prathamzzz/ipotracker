@@ -62,7 +62,7 @@ class IpoTrackerApp extends StatelessWidget {
               centerTitle: false,
               scrolledUnderElevation: 1,
             ),
-            cardTheme: const CardTheme(
+            cardTheme: const CardThemeData(
               color: Colors.white,
               elevation: 1,
             ),
@@ -85,7 +85,7 @@ class IpoTrackerApp extends StatelessWidget {
               centerTitle: false,
               scrolledUnderElevation: 1,
             ),
-            cardTheme: const CardTheme(
+            cardTheme: const CardThemeData(
               color: Color(0xFF121212),
               elevation: 1,
             ),
